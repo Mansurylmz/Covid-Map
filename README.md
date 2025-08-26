@@ -25,7 +25,8 @@ Sağlayıcılar ve özellikler kullanılarak bileşenler nasıl test edilir?
 # Ekran Kaydı
 Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
 
+![covid-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/f5362c36-6114-4869-80d3-1905c6cd575f)
 
 
-https://github.com/user-attachments/assets/26a87fe2-c6a7-40a9-935f-ceadd280eb0a
+
 
